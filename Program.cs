@@ -83,13 +83,6 @@ namespace Queue
             return pila1.Count == 0;
         }
 
-      /*  public static string Something()
-        {
-            return "algo";
-        }
-
-        public static bool Login(string user, string pass)=>
-            user == "Alex" && pass == "1234" ? true : false;  
-        */
+      
     }
 }
