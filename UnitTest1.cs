@@ -56,26 +56,5 @@ namespace QueueTests
             Assert.AreEqual(2, program.Delete());
             Assert.IsTrue(program.IsEmpty());
         }
-
-
-
-
-
-
-
-
-        /* [TestMethod]
-         public void TestSomething()
-         {
-             string result = Program.Something();
-             Assert.AreEqual("algo",result);
-         }
-         [TestMethod]
-         public void TestLogin()
-         {
-             bool result = Program.Login("Alex","1234");
-             Assert.IsTrue(result);
-         }
-        */
     }
 }
